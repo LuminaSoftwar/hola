@@ -1,0 +1,317 @@
+[05:00:52] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[05:00:52] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[05:00:52] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[05:00:53] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
+[05:00:53] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+ - SimpleTpa (8.0), SkinsRestorer (15.9.1), Timber (1.7.4), UltraSetHome (1.7.9)
+[05:01:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:01:04] [ServerMain/INFO]: Loaded 1407 recipes
+[05:01:04] [ServerMain/INFO]: Loaded 1520 advancements
+[05:01:04] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[05:01:05] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 708.2ms
+[05:01:05] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[05:01:05] [Server thread/INFO]: Loading properties
+[05:01:05] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[05:01:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[05:01:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:01:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:01:07] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[05:01:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[05:01:07] [Server thread/INFO]: Default game type: SURVIVAL
+[05:01:07] [Server thread/INFO]: Generating keypair
+[05:01:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:01:07] [Server thread/INFO]: Using epoll channel type
+[05:01:08] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[05:01:08] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[05:01:08] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.9.1
+[05:01:08] [Server thread/INFO]: [Timber] Loading server plugin Timber v1.7.4
+[05:01:08] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v8.0
+[05:01:08] [Server thread/INFO]: [UltraSetHome] Loading server plugin UltraSetHome v1.7.9
+[05:01:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:01:08] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.9.1
+[05:01:10] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[05:01:10] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[05:01:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:01:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:01:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:01:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:01:10] [Server thread/INFO]: Preparing level "world"
+[05:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[05:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[05:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[05:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[05:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[05:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.9.1
+[05:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ee713cb
+[05:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[05:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[05:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[05:01:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[05:01:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:01:12] [Server thread/INFO]: Preparing spawn area: 0%
+[05:01:12] [Server thread/INFO]: Preparing spawn area: 2%
+[05:01:13] [Server thread/INFO]: Preparing spawn area: 10%
+[05:01:13] [Server thread/INFO]: Preparing spawn area: 65%
+[05:01:14] [Server thread/INFO]: Preparing spawn area: 79%
+[05:01:14] [Server thread/INFO]: Time elapsed: 2007 ms
+[05:01:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:01:14] [Server thread/INFO]: Preparing spawn area: 0%
+[05:01:14] [Server thread/INFO]: Preparing spawn area: 18%
+[05:01:15] [Server thread/INFO]: Preparing spawn area: 71%
+[05:01:15] [Server thread/INFO]: Time elapsed: 1283 ms
+[05:01:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:01:15] [Server thread/INFO]: Preparing spawn area: 0%
+[05:01:15] [Server thread/INFO]: Preparing spawn area: 44%
+[05:01:16] [Server thread/INFO]: Time elapsed: 741 ms
+[05:01:16] [Server thread/INFO]: [Timber] Enabling Timber v1.7.4
+[05:01:16] [Server thread/WARN]: LogBlock isn't injected! 
+[05:01:16] [Server thread/WARN]: Install the plugin to improve tree detection 
+[05:01:16] [Server thread/WARN]: Download link: https://www.curseforge.com/minecraft/bukkit-plugins/logblocks 
+[05:01:17] [Server thread/INFO]: 
+	Plugin [Timber] Update Available
+	Your version: 1.7.4 | Latest: 1.7.6
+	Download: https://www.curseforge.com/minecraft/bukkit-plugins/treetimber
+[05:01:17] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v8.0
+[05:01:17] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[05:01:17] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 8.0
+[05:01:17] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[05:01:17] [Server thread/INFO]: [UltraSetHome] Enabling UltraSetHome v1.7.9
+[05:01:19] [Server thread/INFO]: [spark] Starting background profiler...
+[05:01:19] [Server thread/INFO]: Done preparing level "world" (9.017s)
+[05:01:19] [Server thread/INFO]: Running delayed init tasks
+[05:01:19] [Server thread/INFO]: Done (30.237s)! For help, type "help"
+[05:01:20] [Server thread/INFO]: [UltraSetHome] You are using the latest version of UltraSetHome.
+[05:03:55] [User Authenticator #0/INFO]: UUID of player SoftwareLumina is 40d6432f-c65d-3113-9fa2-7a20d41e2ea9
+[05:03:57] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:03:57] [Server thread/INFO]: SoftwareLumina joined the game
+[05:03:57] [Server thread/INFO]: SoftwareLumina[/127.127.66.17:47559] logged in with entity id 10 at ([world]-315.0245662135834, 70.0, 4760.415293523899)
+[05:04:01] [Server thread/INFO]: SoftwareLumina lost connection: Disconnected
+[05:04:01] [Server thread/INFO]: SoftwareLumina left the game
+[05:07:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+paser Itz_Valen<--[HERE]
+[05:07:36] [User Authenticator #1/INFO]: UUID of player Irde_ is 25a30592-dded-3f9f-9c21-b118f161481a
+[05:07:38] [Server thread/INFO]: Irde_ joined the game
+[05:07:38] [Server thread/INFO]: Irde_[/127.0.211.173:37781] logged in with entity id 189 at ([world]1889.185963094053, 119.0, 5003.835876322313)
+[05:08:06] [Server thread/INFO]: Unbanned Itz_Valen
+[05:08:14] [Server thread/INFO]: [Not Secure] [Server] ya lo desbanee
+[05:08:14] [User Authenticator #1/INFO]: UUID of player Travariko is c9abf662-b9bd-3649-9a7c-0b4d04f1f54f
+[05:08:16] [Server thread/INFO]: Travariko joined the game
+[05:08:16] [Server thread/INFO]: Travariko[/127.214.155.1:32795] logged in with entity id 415 at ([world]38.5, 66.0, 27.5)
+[05:08:21] [Async Chat Thread - #1/INFO]: [Not Secure] <Irde_> goodgirl
+[05:08:24] [Server thread/INFO]: Travariko lost connection: Disconnected
+[05:08:24] [User Authenticator #1/INFO]: UUID of player SoftwareLumina is 40d6432f-c65d-3113-9fa2-7a20d41e2ea9
+[05:08:24] [Server thread/INFO]: Travariko left the game
+[05:08:25] [Server thread/INFO]: SoftwareLumina joined the game
+[05:08:25] [Server thread/INFO]: SoftwareLumina[/127.127.66.17:58463] logged in with entity id 658 at ([world]-315.0245662135834, 70.0, 4760.415293523899)
+[05:09:00] [Server thread/INFO]: Irde_ tried to swim in lava
+[05:09:22] [Server thread/INFO]: Irde_ tried to swim in lava
+[05:09:38] [Server thread/INFO]: Irde_ tried to swim in lava
+[05:09:45] [Server thread/INFO]: Irde_ tried to swim in lava
+[05:09:54] [Server thread/INFO]: Irde_ tried to swim in lava
+[05:10:00] [Server thread/INFO]: Irde_ tried to swim in lava
+[05:10:08] [Server thread/INFO]: Irde_ tried to swim in lava
+[05:10:15] [Server thread/INFO]: Irde_ tried to swim in lava
+[05:10:27] [User Authenticator #2/INFO]: UUID of player EXFXds is 1396475f-f91c-30d8-8819-47ce35f12ef8
+[05:10:29] [Server thread/INFO]: EXFXds joined the game
+[05:10:29] [Server thread/INFO]: EXFXds[/127.253.91.166:53361] logged in with entity id 2582 at ([world]-258.3064205629058, 79.0, 4821.559326229896)
+[05:10:41] [Server thread/INFO]: Irde_ tried to swim in lava
+[05:10:48] [Server thread/INFO]: Irde_ tried to swim in lava
+[05:10:55] [User Authenticator #2/INFO]: UUID of player Itz_Valen is 5d05d0cf-2d32-34d9-9d5d-a17371472612
+[05:10:57] [Server thread/INFO]: Itz_Valen joined the game
+[05:10:57] [Server thread/INFO]: Itz_Valen[/127.214.155.1:48581] logged in with entity id 3111 at ([world]-297.4622050723309, 75.24918707874468, 4741.088182052955)
+[05:10:57] [Server thread/INFO]: Irde_ tried to swim in lava
+[05:11:06] [Server thread/INFO]: Itz_Valen issued server command: /tpa Irde_
+[05:11:28] [Server thread/INFO]: Itz_Valen issued server command: /sethome
+[05:11:36] [Server thread/INFO]: Itz_Valen issued server command: /sethome destruccion
+[05:11:42] [Server thread/INFO]: Itz_Valen issued server command: /tpa Irde_
+[05:11:46] [Server thread/INFO]: Irde_ issued server command: /tpaccept
+[05:12:29] [Server thread/INFO]: Itz_Valen lost connection: Disconnected
+[05:12:30] [Server thread/INFO]: Itz_Valen left the game
+[05:12:55] [User Authenticator #3/INFO]: UUID of player LU1XSO3 is 9b17cae6-0141-3dd8-a9bc-28e368e21fd8
+[05:12:56] [Server thread/INFO]: LU1XSO3 joined the game
+[05:12:57] [Server thread/INFO]: LU1XSO3[/127.214.155.1:46247] logged in with entity id 3831 at ([world]1885.4745384384976, -13.0, 5030.300000011921)
+[05:13:06] [Server thread/INFO]: LU1XSO3 issued server command: /tpa Irde_
+[05:13:08] [Server thread/INFO]: Irde_ issued server command: /tpaccept
+[05:13:08] [Server thread/INFO]: EXFXds issued server command: /home end
+[05:13:23] [Server thread/INFO]: EXFXds has made the advancement [The End?]
+[05:14:09] [Server thread/INFO]: LU1XSO3 has made the advancement [Suit Up]
+[05:14:19] [Server thread/INFO]: Irde_ issued server command: /homes
+[05:14:52] [Server thread/INFO]: LU1XSO3 issued server command: /tpa Irde_
+[05:14:54] [Server thread/INFO]: Irde_ issued server command: /tpaccept
+[05:15:39] [Server thread/INFO]: LU1XSO3 issued server command: /home
+[05:15:46] [Server thread/INFO]: Irde_ issued server command: /homes
+[05:16:22] [Server thread/INFO]: Irde_ issued server command: /homes
+[05:16:28] [Server thread/INFO]: LU1XSO3 issued server command: /tpa Irde_
+[05:16:39] [Server thread/INFO]: Villager Villager['Villager'/5330, uuid='44f4694e-7e28-4fde-9281-5e6367af6689', l='ServerLevel[world]', x=1902.58, y=116.18, z=5026.80, cpos=[118, 314], tl=1192, v=true] died, message: 'Villager was slain by Irde_'
+[05:16:59] [Server thread/INFO]: EXFXds has made the advancement [Remote Getaway]
+[05:17:12] [Server thread/INFO]: Irde_ issued server command: /homes
+[05:17:23] [User Authenticator #4/INFO]: UUID of player Chama_SCAIF is a900ab36-dad8-3279-bc47-9df7eaacb190
+[05:17:25] [Server thread/INFO]: Chama_SCAIF joined the game
+[05:17:25] [Server thread/INFO]: Chama_SCAIF[/127.9.133.11:53567] logged in with entity id 6435 at ([world]792.5149184918084, 65.0, 10599.699999988079)
+[05:17:28] [Server thread/INFO]: LU1XSO3 issued server command: /tpa Irde_
+[05:17:34] [Server thread/INFO]: LU1XSO3 issued server command: /tpa Irde_
+[05:17:37] [Server thread/INFO]: Irde_ issued server command: /tpaccept
+[05:18:32] [Server thread/INFO]: LU1XSO3 lost connection: Disconnected
+[05:18:32] [Server thread/INFO]: LU1XSO3 left the game
+[05:18:57] [User Authenticator #5/INFO]: UUID of player Itz_Valen is 5d05d0cf-2d32-34d9-9d5d-a17371472612
+[05:18:58] [Server thread/INFO]: Itz_Valen joined the game
+[05:18:58] [Server thread/INFO]: Itz_Valen[/127.214.155.1:39839] logged in with entity id 7392 at ([world]1873.810160412181, 119.0, 5005.549310326647)
+[05:19:03] [Server thread/INFO]: Chama_SCAIF issued server command: /home
+[05:19:10] [Server thread/INFO]: Itz_Valen issued server command: /tpa Irde_
+[05:19:12] [Server thread/INFO]: Irde_ issued server command: /tpaccept
+[05:19:32] [Async Chat Thread - #3/INFO]: [Not Secure] <Chama_SCAIF> c aim
+[05:20:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Chama_SCAIF> XD
+[05:20:43] [Async Chat Thread - #3/INFO]: [Not Secure] <Chama_SCAIF> XD
+[05:20:48] [Async Chat Thread - #2/INFO]: [Not Secure] <Chama_SCAIF> c soft
+[05:21:30] [Server thread/INFO]: Itz_Valen issued server command: /skin set Itz_Valen
+[05:21:44] [Server thread/INFO]: Itz_Valen issued server command: /skin set bachira
+[05:21:50] [Server thread/INFO]: Itz_Valen issued server command: /home
+[05:22:11] [Server thread/INFO]: Irde_ issued server command: /tpa Itz_Valen
+[05:22:47] [Server thread/INFO]: Itz_Valen issued server command: /tpaccept
+[05:24:16] [Async Chat Thread - #4/INFO]: [Not Secure] <Chama_SCAIF> eres tarada
+[05:25:07] [Server thread/INFO]: Irde_ issued server command: /tpa Itz_Valen
+[05:25:12] [Server thread/INFO]: Itz_Valen issued server command: /tpa
+[05:25:16] [Server thread/INFO]: Itz_Valen issued server command: /tpaccept
+[05:25:20] [Server thread/INFO]: Chama_SCAIF was shot by SoftwareLumina
+[05:25:28] [Async Chat Thread - #6/INFO]: [Not Secure] <SoftwareLumina> DJKSAJAKDSJKASD
+[05:25:31] [Async Chat Thread - #6/INFO]: [Not Secure] <SoftwareLumina> esa flecha
+[05:25:33] [Async Chat Thread - #6/INFO]: [Not Secure] <SoftwareLumina> fue con lag
+[05:25:34] [Async Chat Thread - #6/INFO]: [Not Secure] <SoftwareLumina> DJSAKJDASJAD
+[05:25:44] [Async Chat Thread - #6/INFO]: [Not Secure] <Chama_SCAIF> lit
+[05:25:44] [Async Chat Thread - #6/INFO]: [Not Secure] <SoftwareLumina> TE PROMETO QUE DEJE DE DISPARAR
+[05:26:03] [Async Chat Thread - #6/INFO]: [Not Secure] <Chama_SCAIF> devuelveme mis niveles pls
+[05:26:24] [Server thread/INFO]: Itz_Valen issued server command: /skin set bachira
+[05:26:47] [Async Chat Thread - #6/INFO]: [Not Secure] <Chama_SCAIF> SOFT
+[05:26:51] [Async Chat Thread - #7/INFO]: [Not Secure] <Chama_SCAIF> MIS NIVELES
+[05:27:29] [Server thread/INFO]: Irde_ issued server command: /sethome soft
+[05:27:34] [Server thread/INFO]: Irde_ was doomed to fall by Itz_Valen
+[05:27:38] [Server thread/INFO]: Irde_ issued server command: /back
+[05:27:48] [Async Chat Thread - #6/INFO]: [Not Secure] <EXFXds> alguien tiene tp al ned city ?
+[05:27:49] [Async Chat Thread - #7/INFO]: [Not Secure] <EXFXds> end*
+[05:28:27] [Async Chat Thread - #6/INFO]: [Not Secure] <Irde_> oye tu metio
+[05:28:29] [Async Chat Thread - #6/INFO]: [Not Secure] <Irde_> metido
+[05:28:31] [Async Chat Thread - #6/INFO]: [Not Secure] <Irde_> quien te llamo
+[05:28:36] [Async Chat Thread - #6/INFO]: [Not Secure] <Irde_> le pego a mi esclavo
+[05:28:36] [Async Chat Thread - #7/INFO]: [Not Secure] <Chama_SCAIF> tas desnudo irde
+[05:28:44] [Async Chat Thread - #6/INFO]: [Not Secure] <EXFXds> Ok amigos
+[05:28:57] [Async Chat Thread - #7/INFO]: [Not Secure] <Irde_> que era
+[05:28:57] [Async Chat Thread - #7/INFO]: [Not Secure] <Irde_> ned
+[05:28:59] [Async Chat Thread - #6/INFO]: [Not Secure] <Irde_> amigo
+[05:29:07] [Server thread/INFO]: Chama_SCAIF issued server command: /Home
+[05:29:09] [Server thread/INFO]: Chama_SCAIF issued server command: /home
+[05:29:11] [Server thread/INFO]: Chama_SCAIF issued server command: /homes
+[05:29:12] [Async Chat Thread - #7/INFO]: [Not Secure] <EXFXds> End city
+[05:29:47] [Server thread/INFO]: Chama_SCAIF issued server command: /home
+[05:29:55] [Async Chat Thread - #7/INFO]: [Not Secure] <Irde_> denme
+[05:29:56] [Async Chat Thread - #7/INFO]: [Not Secure] <Irde_> zana
+[05:29:57] [Async Chat Thread - #6/INFO]: [Not Secure] <Irde_> horias
+[05:29:57] [Async Chat Thread - #7/INFO]: [Not Secure] <Chama_SCAIF> VALEN
+[05:30:03] [Async Chat Thread - #6/INFO]: [Not Secure] <Chama_SCAIF> tienes hierro?
+[05:30:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Irde_> eso tenemos de sobra
+[05:30:27] [Server thread/INFO]: Irde_ was slain by Chama_SCAIF
+[05:30:34] [Async Chat Thread - #6/INFO]: [Not Secure] <Chama_SCAIF> no duro nada
+[05:30:37] [Server thread/INFO]: Irde_ issued server command: /tpa Itz_Valen
+[05:30:41] [Server thread/INFO]: Itz_Valen issued server command: /tpaccept
+[05:30:42] [Async Chat Thread - #6/INFO]: [Not Secure] <Irde_> bro no tengo armadura
+[05:30:44] [Async Chat Thread - #6/INFO]: [Not Secure] <Chama_SCAIF> no t quitare nada irde
+[05:30:49] [Async Chat Thread - #6/INFO]: [Not Secure] <Chama_SCAIF> solo dame el hierro pls
+[05:30:58] [Async Chat Thread - #6/INFO]: [Not Secure] <Irde_> tenemos de sobra en nuestra base xdxd
+[05:31:00] [Async Chat Thread - #6/INFO]: [Not Secure] <Chama_SCAIF> ven donde estoy para q no desaparezcan
+[05:31:28] [Async Chat Thread - #6/INFO]: [Not Secure] <Chama_SCAIF> irde tus cosas....
+[05:32:20] [Async Chat Thread - #7/INFO]: [Not Secure] <EXFXds> software
+[05:32:21] [Async Chat Thread - #6/INFO]: [Not Secure] <EXFXds> maldita
+[05:32:22] [Async Chat Thread - #6/INFO]: [Not Secure] <EXFXds> subele
+[05:32:23] [Async Chat Thread - #6/INFO]: [Not Secure] <EXFXds> alos chunks
+[05:32:31] [Async Chat Thread - #6/INFO]: [Not Secure] <EXFXds> no veo nada alos lejos
+[05:33:11] [Server thread/INFO]: Itz_Valen has made the advancement [Hot Stuff]
+[05:33:19] [Server thread/INFO]: Made SoftwareLumina a server operator
+[05:34:22] [Server thread/INFO]: Chama_SCAIF issued server command: /homes
+[05:35:02] [Server thread/INFO]: SoftwareLumina issued server command: /gamemode adventure Chama_SCAIF
+[05:35:02] [Server thread/INFO]: [SoftwareLumina: Set Chama_SCAIF's game mode to Adventure Mode]
+[05:35:28] [Server thread/INFO]: SoftwareLumina issued server command: /gamemode survival Chama_SCAIF
+[05:35:28] [Server thread/INFO]: [SoftwareLumina: Set Chama_SCAIF's game mode to Survival Mode]
+[05:35:38] [Server thread/INFO]: SoftwareLumina issued server command: /gamemode spectator SoftwareLumina
+[05:35:38] [Server thread/INFO]: [SoftwareLumina: Set own game mode to Spectator Mode]
+[05:35:49] [Server thread/INFO]: SoftwareLumina issued server command: /gamemode survival SoftwareLumina
+[05:35:49] [Server thread/INFO]: [SoftwareLumina: Set own game mode to Survival Mode]
+[05:36:22] [Server thread/INFO]: EXFXds issued server command: /home end
+[05:36:24] [Server thread/INFO]: EXFXds fell from a high place
+[05:36:24] [Server thread/INFO]: SoftwareLumina lost connection: Disconnected
+[05:36:24] [Server thread/INFO]: SoftwareLumina left the game
+[05:36:29] [Server thread/INFO]: EXFXds issued server command: /home end
+[05:36:46] [Server thread/INFO]: EXFXds issued server command: /home weli
+[05:37:13] [Server thread/INFO]: Unknown item 'minecraft:'
+...xperience Chama_SCAIF 100000<--[HERE]
+[05:37:25] [Async Chat Thread - #8/INFO]: [Not Secure] <Irde_> un
+[05:37:27] [Async Chat Thread - #9/INFO]: [Not Secure] <Irde_> aldeano zombie
+[05:37:45] [Server thread/INFO]: Irde_ was slain by Zombie Villager
+[05:37:48] [Server thread/INFO]: Incorrect argument for command
+xp Chama_SCAIF 100000<--[HERE]
+[05:37:49] [Server thread/INFO]: Irde_ issued server command: /back
+[05:37:58] [Async Chat Thread - #8/INFO]: [Not Secure] <Chama_SCAIF> bro de vrdd forzo clip
+[05:38:04] [Async Chat Thread - #9/INFO]: [Not Secure] <Irde_> no tenia comida
+[05:38:07] [Async Chat Thread - #9/INFO]: [Not Secure] <Irde_> y no podia correr
+[05:38:07] [Async Chat Thread - #9/INFO]: [Not Secure] <Chama_SCAIF> XD
+[05:38:08] [Async Chat Thread - #9/INFO]: [Not Secure] <Irde_> XDD
+[05:38:14] [Async Chat Thread - #9/INFO]: [Not Secure] <Chama_SCAIF> ven y t doy comida
+[05:38:18] [Server thread/INFO]: Gave 100000 experience points to Chama_SCAIF
+[05:38:19] [Async Chat Thread - #9/INFO]: [Not Secure] <Irde_> solo quiero
+[05:38:21] [Async Chat Thread - #8/INFO]: [Not Secure] <Irde_> una zanahoria
+[05:38:30] [Async Chat Thread - #8/INFO]: [Not Secure] <Chama_SCAIF> ok t doy
+[05:38:49] [Server thread/INFO]: Chama_SCAIF issued server command: /home
+[05:38:55] [Async Chat Thread - #8/INFO]: [Not Secure] <Irde_> no lo mates
+[05:38:59] [Server thread/INFO]: EXFXds issued server command: /home end
+[05:39:11] [Async Chat Thread - #9/INFO]: [Not Secure] <EXFXds> estan en la casa ?
+[05:39:14] [Async Chat Thread - #8/INFO]: [Not Secure] <Chama_SCAIF> chi
+[05:39:20] [Server thread/INFO]: EXFXds issued server command: /tpa chama_scaif
+[05:39:23] [Server thread/INFO]: Chama_SCAIF issued server command: /tpaccept
+[05:39:25] [Async Chat Thread - #9/INFO]: [Not Secure] <EXFXds> Me repugnas chama
+[05:39:32] [Async Chat Thread - #8/INFO]: [Not Secure] <Chama_SCAIF> por?
+[05:39:35] [Server thread/INFO]: Irde_ lost connection: Disconnected
+[05:39:35] [Server thread/INFO]: Irde_ left the game
+[05:39:35] [Server thread/INFO]: EXFXds lost connection: Disconnected
+[05:39:35] [Server thread/INFO]: EXFXds left the game
+[05:39:35] [Server thread/INFO]: Chama_SCAIF lost connection: Disconnected
+[05:39:35] [Server thread/INFO]: Chama_SCAIF left the game
+[05:39:35] [Server thread/INFO]: Itz_Valen lost connection: Disconnected
+[05:39:36] [Server thread/INFO]: Itz_Valen left the game
+[05:39:36] [Server thread/INFO]: Stopping server
+[05:39:36] [Server thread/INFO]: [UltraSetHome] Disabling UltraSetHome v1.7.9
+[05:39:36] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v8.0
+[05:39:36] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[05:39:36] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been disabled on version 8.0
+[05:39:36] [Server thread/INFO]: [Timber] Disabling Timber v1.7.4
+[05:39:36] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.9.1
+[05:39:36] [Server thread/INFO]: Saving players
+[05:39:36] [Server thread/INFO]: Saving worlds
+[05:39:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:39:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:39:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:39:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:39:41] [Server thread/INFO]: [ChunkHolderManager] Saved 680 block chunks, 906 entity chunks, 0 poi chunks in world 'world' in 5.12s
+[05:39:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[05:39:41] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[05:39:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:39:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:39:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:39:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:39:42] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 4 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[05:39:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[05:39:42] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[05:39:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:39:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:39:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:39:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:39:42] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 2 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[05:39:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[05:39:42] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[05:39:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:39:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:39:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:39:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:39:42] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[05:39:42] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[05:39:42] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[05:39:42] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
